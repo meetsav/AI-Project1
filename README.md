@@ -4,6 +4,7 @@
 1) Java JDK 11 + 
 
 ### Project structure:
+```
 .
 ├── AI-Project1.pdf
 ├── CS440-Assignment1.iml
@@ -19,7 +20,7 @@
             ├── ThirdQuestion.java
             └── Triangle.java
 
-
+```
 ### Problem statement
 The problem statement is given in [AI-Project1.pdf] file, and the intruction to run this project is given in [Manual\ for\ running\ Assignment.docx]
 

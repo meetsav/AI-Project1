@@ -22,5 +22,5 @@
 
 ```
 ### Problem statement
-The problem statement is given in [AI-Project1.pdf] file, and the intruction to run this project is given in [Manual\ for\ running\ Assignment.docx]
+The problem statement is given in [AI-Project1.pdf](https://github.com/meetsav/CS440-Assignment1/blob/master/AI-Project1.pdf) file, and the intruction to run this project is given in [User-manual.pdf]
 
